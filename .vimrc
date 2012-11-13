@@ -88,3 +88,13 @@ imap jj <esc>
 
 " for freebsd only ... 
 set t_kD=^V<Delete>
+
+set ts=4
+set shiftwidth=4
+set expandtab
+set smarttab
+set laststatus=2
+filetype indent on
+filetype on
+filetype plugin on
+set guifont=Monospace\ 9
